@@ -8,7 +8,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xingxingzaixian&repo=FastAPI-MySQL-Tortoise-Casbin" />
 </a>
 <a href="https://github.com/xingxingzaixian/novel_read">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xingxingzaixian&repo=novel_read&show_owner=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xingxingzaixian&repo=novel_read&show_owner=true&card_width=300" />
 </a>
 
 
