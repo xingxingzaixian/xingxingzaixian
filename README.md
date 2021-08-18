@@ -1,6 +1,6 @@
 ![xingxingzaixian GitHub stats](https://github-readme-stats.vercel.app/api?username=xingxingzaixian&show_icons=true&theme=radical&include_all_commits=true&show_owner=true&hide_title=true)
 
-![]（https://komarev.com/ghpvc/?username=xingxingzaixian）
+![]（https://komarev.com/ghpvc/?username=xingxingzaixian&style=flat-square）
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xingxingzaixian&hide=java)](https://github.com/anuraghazra/github-readme-stats)
 
