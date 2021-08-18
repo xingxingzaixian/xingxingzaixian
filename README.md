@@ -5,5 +5,5 @@
 
 # 我的推荐项目
 <a href="https://github.com/xingxingzaixian/FastAPI-MySQL-Tortoise-Casbin">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xingxingzaixian&repo=FastAPI-MySQL-Tortoise-Casbin&show_owner=true&card_width=500" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xingxingzaixian&repo=FastAPI-MySQL-Tortoise-Casbin&show_owner=true&card_width=500px" />
 </a>
