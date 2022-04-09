@@ -10,3 +10,6 @@
 <a href="https://github.com/xingxingzaixian/FastAPI-MySQL-Tortoise-Casbin">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xingxingzaixian&repo=FastAPI-MySQL-Tortoise-Casbin" />
 </a>
+<a href="https://github.com/xingxingzaixian/python-django-online-exam">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xingxingzaixian&repo=python-django-online-exam" />
+</a>
